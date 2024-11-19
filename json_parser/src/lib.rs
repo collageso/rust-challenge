@@ -11,5 +11,3 @@ pub enum Token {
     Number(f64),
     String(String),
 }
-
-println!("git test");
